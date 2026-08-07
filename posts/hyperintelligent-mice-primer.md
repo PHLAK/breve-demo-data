@@ -3,8 +3,8 @@ title: "So Your Mouse Is a Hyper-Intelligent Pan-Dimensional Being: A Primer"
 published: 2025-04-22 10:55:00
 author: Trillian
 image:
-  url: https://images.unsplash.com/photo-1779620126349-18e14cbbd5be?auto=format&fit=crop&w=1600&h=1000
-  caption: A small, dark, knowing eye. It is almost certainly making notes about your performance. Photo by [Nikolett Emmert](https://unsplash.com/@niki_emmert) on [Unsplash](https://unsplash.com/photos/a-small-brown-and-white-mouse-on-a-dark-surface-NvV3vpsMjE0).
+  url: https://images.unsplash.com/photo-1425082661705-1834bfd09dca?auto=format&fit=crop&w=1600&h=1000
+  caption: It is almost certainly making notes about your performance. Photo by [Ricky  Kharawala](https://unsplash.com/@sweetmangostudios) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-brown-hamster-adK3Vu70DEQ).
 tags: [Mice, Science, Pan-Dimensional, Guide]
 ---
 

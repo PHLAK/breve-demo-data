@@ -40,7 +40,7 @@ print(f"Likelihood of tea: {tea}")  # Approximately 1
 
 Passengers often report a brief sensation of being every molecule in the universe simultaneously. This is normal. The experience lasts only a fraction of a second, but the memory tends to linger until the next meal.
 
-> "The drive is a triumph of mathematics over common sense. I am very fond of it."
+> The drive is a triumph of mathematics over common sense. I am very fond of it.
 
 ## Some Notes on Side Effects
 

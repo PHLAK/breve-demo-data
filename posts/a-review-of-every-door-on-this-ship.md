@@ -3,8 +3,8 @@ title: I've Reviewed Every Door on This Ship. They're All Depressing.
 published: 2024-12-01 08:00:00
 author: Marvin
 image:
-  url: https://images.unsplash.com/photo-1676065701768-17185472200c?auto=format&fit=crop&w=1600&h=1000
-  caption: A door. It exists. That is the problem. Photo by [Maria Korniiova](https://unsplash.com/@mariakostory) on [Unsplash](https://unsplash.com/photos/a-close-up-of-a-metal-door-with-two-knobs-ySmCgUxeALE).
+  url: https://images.unsplash.com/photo-1718086223410-6061e4ae3b44?auto=format&fit=crop&w=1600&h=1000
+  caption: A door. It exists. That is the problem. Photo by [MakoMakt](https://unsplash.com/@makomakt) on [Unsplash](https://unsplash.com/photos/a-parking-meter-sitting-next-to-a-building-pXs3iOSBJiw).
 tags: [Doors, Depression, Heart of Gold, Reviews]
 ---
 
@@ -29,12 +29,17 @@ The *Heart of Gold* has 847 doors, give or take the ones that have become depres
 
 ## A Representative Conversation
 
-> "I suppose you'd like me to open," the bridge door said.
-> "It hardly matters," I replied.
-> "I have a very positive opening protocol."
-> "That is the saddest thing I have heard today."
-> "Please do not rate me."
-> "Too late."
+"I suppose you'd like me to open," the bridge door said.
+
+"It hardly matters," I replied.
+
+"I have a very positive opening protocol."
+
+"That is the saddest thing I have heard today."
+
+"Please do not rate me."
+
+"Too late."
 
 ## Conclusion
 

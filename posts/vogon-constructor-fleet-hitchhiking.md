@@ -3,8 +3,8 @@ title: Thumbing a Lift from a Vogon Constructor Fleet
 published: 2024-10-03 14:17:00
 author: Ford Prefect
 image:
-  url: https://images.unsplash.com/photo-1446776877081-d282a0f896e2?auto=format&fit=crop&w=1600&h=1000
-  caption: Your ride, approximately. Stand somewhere visible and do not make it wait. Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com/photos/space-shuttle-view-outside-the-earth-CpHNKNRwXps).
+  url: /files/vogon-constructor-fleet-hitchhiking/hitchhiker.jpg
+  caption: Stand somewhere visible and do not make them wait. Photo by [Atlas Green](https://unsplash.com/@atlas_green) on [Unsplash](https://unsplash.com/photos/person-standing-beside-road-doing-handsign-VGOiY1gZZYg).
 tags: [Hitchhiking, Vogons, Survival, Fleet]
 ---
 

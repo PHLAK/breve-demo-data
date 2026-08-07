@@ -3,8 +3,8 @@ title: A Field Guide to Towels for the Bewildered Hitchhiker
 published: 2024-09-18 09:42:00
 author: Arthur Dent
 image:
-  url: https://images.unsplash.com/photo-1523471826770-c437b4636fe6?auto=format&fit=crop&w=1600&h=1000
-  caption: A towel, folded in the approved interstellar style. Photo by [Denny Müller](https://unsplash.com/@redaquamedia) on [Unsplash](https://unsplash.com/photos/four-green-towels-s9zGsWDiFO4).
+  url: https://images.unsplash.com/photo-1693496482278-f6d29ca6a450?auto=format&fit=crop&w=1600&h=1000
+  caption: A towel, folded in the approved interstellar style. Photo by [Steve A Johnson](https://unsplash.com/@steve_j) on [Unsplash](https://unsplash.com/photos/a-pile-of-colorful-towels-sitting-on-top-of-a-table-Rd0XdC4WLAk).
 tags: [Hitchhiking, Towels, Survival, Guide]
 ---
 
@@ -20,10 +20,10 @@ A towel, it has often been observed, is about the most massively useful thing an
 
 Before stepping onto any passing spacecraft, run through this list:
 
-- [ ] Is it actually a towel? A small flannel, a handkerchief, or a cat do not count.
-- [ ] Is it dry? If not, is it dry enough that it will not drip on important controls?
-- [ ] Does it have a reassuringly towel-like texture? Anything described as "moisture-wicking" is suspicious.
-- [ ] Have you told anyone where it is? You should not need to, but it impresses them.
+- Is it actually a towel? A small flannel, a handkerchief, or a cat do not count.
+- Is it dry? If not, is it dry enough that it will not drip on important controls?
+- Does it have a reassuringly towel-like texture? Anything described as "moisture-wicking" is suspicious.
+- Have you told anyone where it is? You should not need to, but it impresses them.
 
 > [!TIP]
 > Always know where your towel is. It is much easier to know where it is if you have not recently lent it to a Vogon.
@@ -32,7 +32,7 @@ Before stepping onto any passing spacecraft, run through this list:
 
 Do not. Vogons have a very particular smell, and it will not wash out. Neither will the smell of a Betelgeusean bedsit, a Deep Thought sub-basement, or a whale that has only just stopped falling.
 
-> "A towel is just a towel," some people say. These people have not spent three days hiding in a service duct on a Cygnusian freighter.
+"A towel is just a towel," some people say. These people have not spent three days hiding in a service duct on a Cygnusian freighter.
 
 ## Conclusion
 

@@ -3,8 +3,8 @@ title: "Milliways: A Dining Guide for the Terminally Curious"
 published: 2025-01-10 19:45:00
 author: Ford Prefect
 image:
-  url: https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?auto=format&fit=crop&w=1600&h=1000
-  caption: The view from the smoking section at Milliways, approximately. Photo by [NASA](https://unsplash.com/@nasa) on [Unsplash](https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs).
+  url: https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&h=1000
+  caption: Photo by [Jay Wennington](https://unsplash.com/@jaywennington) on [Unsplash](https://unsplash.com/photos/dish-on-white-ceramic-plate-N_Y88TWmGwA).
 tags: [Dining, Milliways, Travel, Restaurant]
 ---
 
