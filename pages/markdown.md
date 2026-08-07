@@ -27,6 +27,14 @@ bibendum sem mauris, vitae elementum ipsum condimentum sit amet.
 
 Maecenas nec sem sit amet diam sollicitudin placerat lobortis vel libero.
 
+# Tables
+
+| Foo     | Bar     | Baz | Qux  |
+| ------- | ------- | :-: | :--: |
+| Alpha   | Delta   |  1  |  ✅️  |
+| Bravo   | Echo    |  2  |  ❌️  |
+| Charlie | Foxtrot |  3  |  ✅️  |
+
 # Lists
 
 ## Ordered
@@ -65,11 +73,3 @@ Maecenas nec sem sit amet diam sollicitudin placerat lobortis vel libero.
 > Advises about risks or negative outcomes of certain actions.
 > 
 > This is a test of a multi-paragraph alert.
-
-# Tables
-
-| Foo     | Bar     | Baz | Qux  |
-| ------- | ------- | :-: | :--: |
-| Alpha   | Delta   |  1  |  ✅️  |
-| Bravo   | Echo    |  2  |  ❌️  |
-| Charlie | Foxtrot |  3  |  ✅️  |
