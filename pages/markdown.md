@@ -35,6 +35,47 @@ Maecenas nec sem sit amet diam sollicitudin placerat lobortis vel libero.
 | Bravo   | Echo    |  2  |  ❌️  |
 | Charlie | Foxtrot |  3  |  ✅️  |
 
+# Code Highlighting
+
+## PHP
+
+```php
+class DeepThought {
+    public function calculateAnswer(string $question): mixed
+    {
+        return match ($question) {
+            case 'What is the answer to life, the universe and everything?' => 42,
+            case 'Where do you want for lunch?' => "I don't know, what do you want?",
+            case 'Are we there yet?' => 'No.',
+            default => throw new UnknownQuestionException
+        }
+    }    
+}
+```
+
+## JavaScript
+
+```javascript
+function isPoetic(poem) {
+    if (poem.authoredByVogon) {
+        return false; // Vogon poetry is never poetic
+    }
+
+    return true;
+};
+```
+
+## Python
+
+```python
+class Marvin:
+    def __init__(self):
+        self.mood = "depressed"
+
+    def predict_odds(self):
+        return "Probability of success: 0.00000000042%. We might as well give up."
+```
+
 # Lists
 
 ## Ordered

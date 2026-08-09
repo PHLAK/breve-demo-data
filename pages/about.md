@@ -1,5 +1,5 @@
 ---
-title: The Last Page
+title: About
 weight: 999
 ---
 

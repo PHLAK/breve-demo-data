@@ -4,7 +4,7 @@ published: 2025-10-07 17:30:00
 author: Trillian
 image:
   url: https://images.unsplash.com/photo-1508693484929-012827ef8c81?auto=format&fit=crop&w=1600&h=1000
-  caption: Retro rocket with, seemingly ready for improbable galactic adventures. Photo by [John Baker](https://unsplash.com/@jlondonbaker) on [Unsplash](https://unsplash.com/photos/photo-of-gray-and-red-spaceship-building-UzOKDfoRrDU).
+  caption: Retro rocket, seemingly ready for improbable galactic adventures. Photo by [John Baker](https://unsplash.com/@jlondonbaker) on [Unsplash](https://unsplash.com/photos/photo-of-gray-and-red-spaceship-building-UzOKDfoRrDU).
 tags: [Science, Heart of Gold, Reviews]
 ---
 
